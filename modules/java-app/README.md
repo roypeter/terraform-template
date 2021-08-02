@@ -4,8 +4,8 @@
 TODO: Explain
 
 ### Input
-TODO: Explain possible inputs
+TODO: List all the input variables
 
 
 ### Outputs
-TODO: Explain possible outputs
+TODO: List all the output variables

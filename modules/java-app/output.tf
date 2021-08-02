@@ -1,0 +1,1 @@
+# Declare required output variable
