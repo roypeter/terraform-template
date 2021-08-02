@@ -32,3 +32,5 @@ module "vpc" {
     Environment = "dev"
   }
 }
+
+# TODO: Explore more about this VPC module to make VPC more secure
